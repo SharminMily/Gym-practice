@@ -1,0 +1,69 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    transition: 0.8ms;
+    scroll-behavior: smooth;
+}
+/*header style start */
+.title{
+    color: rgb(199, 54, 54);
+    margin-left: 20px;
+    font-size: 50px;
+    padding-left: 40px;
+    
+}
+nav li{
+    list-style: none;
+    margin-right: 80px;
+    color: rgb(133, 225, 248); 
+    font-size: 20px;
+    padding-top: 20px;     
+}
+nav li a{
+    font-size: 20px;
+    display: flex;
+} 
+.all-header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.header-items{
+    display: flex;
+}
+.all-bg{
+    display: flex;    
+}
+.bg-title{
+    padding-left: 50px;
+    font-size: 20px;
+}
+.bg-title h1{
+    color: rgb(199, 54, 54);
+    margin-left: 20px;
+    font-size: 80px;      
+}
+.bg-title h2{
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bg-title p{
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bg-title button{
+    border: none;
+    border-radius: 10px;
+    width: 180px;
+    height: 40px;
+    color: aqua;
+    background-color: crimson;
+    font-size: 25px;
+    margin-left: 180px;
+}
+.bg-img img{
+   width: 90%;
+   padding-left: 80px;
+   
+   
+}
